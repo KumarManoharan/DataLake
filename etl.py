@@ -1,4 +1,4 @@
-"""etl.py is the reads the data files and loads into the Redshit DB hosted in AWS"""
+"""etl.py reads the data files and loads into the Redshit DB hosted in AWS"""
 import configparser
 from datetime import datetime
 import os
